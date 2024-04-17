@@ -25,7 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Azure Virtual Machine
 - Internet Information Services (IIS)
 - PHP Manager
-- Item 4
+- Create the directory C:\PHP
+
 - Item 5
 osTicket prerequisite and installation files https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
