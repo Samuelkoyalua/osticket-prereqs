@@ -235,3 +235,64 @@ Let's rename the configuration file "ost-sampleconfig.php" to "ost-config.php". 
 
 
 permission granted to everyone
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/0C9oTCN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+Firstly, retrieve the HeidiSQL software from the Installation Files and proceed with its installation.
+
+Once installed, launch HeidiSQL and initiate a new session.
+
+Within HeidiSQL, create a new session using the credentials "root" for the username and "Password1" for the password.
+
+Connect to the newly created session.
+
+Subsequently, within the connected session, establish a database named "osTicket". This database will serve as the foundation for osTicket's data management.
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/4medYuN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+Let's proceed with setting up osTicket in your browser:
+
+Enter the MySQL Database as "osTicket", with the MySQL Username as "root" and MySQL Password as "Password1".
+
+Once entered, click on "Install Now!" to commence the installation process.
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/Y1yR00B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+
+Let's go!! We have finished!!!
+
+
