@@ -71,3 +71,9 @@ Let's acquire and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/RaQBoiT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step would be to download and install the rewrite module
