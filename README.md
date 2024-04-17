@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Information Services (IIS)
 - PHP Manager
 - Create the directory C:\PHP
+- download and install VC_redist.x86.exe
 
 - Item 5
 osTicket prerequisite and installation files https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
