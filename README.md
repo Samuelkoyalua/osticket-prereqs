@@ -225,3 +225,13 @@ Let's rename the configuration file "ost-sampleconfig.php" to "ost-config.php". 
 
 
 
+
+
+<p>
+<img src="https://i.imgur.com/184p59Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+permission granted to everyone
