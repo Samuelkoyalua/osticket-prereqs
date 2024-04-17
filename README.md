@@ -88,4 +88,17 @@ Next step would be to download and install the rewrite module
 <p>
 <img src="https://i.imgur.com/Q4K8vDF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 Once the PHP file has been successfully downloaded, proceed to navigate to the "Files" directory. Then, right-click on the downloaded PHP file and select the "Extract All" option to initiate the extraction process.
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/2WtP09m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+Now, let's proceed with the acquisition and installation of VC_redist.x86.exe from the provided installation files. This crucial step involves retrieving the necessary redistributable package to ensure seamless compatibility and optimal performance. Once downloaded, we'll meticulously execute the installation process, aligning our system environment with the requisite components for enhanced functionality and reliability.
