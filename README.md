@@ -102,3 +102,109 @@ Once the PHP file has been successfully downloaded, proceed to navigate to the "
 
 
 Now, let's proceed with the acquisition and installation of VC_redist.x86.exe from the provided installation files. This crucial step involves retrieving the necessary redistributable package to ensure seamless compatibility and optimal performance. Once downloaded, we'll meticulously execute the installation process, aligning our system environment with the requisite components for enhanced functionality and reliability.
+
+
+
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/smuMb0g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+Next we download and install MySQL 5.5.62
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/p4TgBGj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/PItcElJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+
+<p>
+<img src="https://i.imgur.com/vrjjqVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+Access IIS with administrative privileges, proceed to register PHP directly within the IIS interface, and then refresh IIS by stopping and starting the server to implement the changes effectively.
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/z8AjIf9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+To begin the installation of osTicket v1.15.8, follow these steps:
+
+Download osTicket from the Installation Files Folder.
+Extract the downloaded files and locate the "upload" folder.
+Copy the entire "upload" folder to the directory "c:\inetpub\wwwroot".
+Inside the "c:\inetpub\wwwroot" directory, rename the copied "upload" folder to "osTicket".
+Reload IIS by stopping and then starting the server.
+Access IIS and navigate to sites -> Default -> osTicket.
+On the right-hand side, click on "Browse *:80" to launch osTicket in your browser.
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/3x8tDlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+<p>
+<img src="https://i.imgur.com/Z1SVDkc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+Navigate to sites -> Default Web Site -> osTicket.
+Double-click on PHP Manager to access its settings.
+Within PHP Manager, locate the section for enabling or disabling extensions.
+Enable the following extensions:
+php_imap.dll
+php_intl.dll
+php_opcache.dll
+
+
+
+
