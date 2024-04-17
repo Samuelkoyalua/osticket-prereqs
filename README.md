@@ -208,3 +208,20 @@ php_opcache.dll
 
 
 
+
+
+
+
+<p>
+<img src="https://i.imgur.com/BRE7fvD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+</p>
+
+
+
+Let's rename the configuration file "ost-sampleconfig.php" to "ost-config.php". This file is located within the directory "C:\inetpub\wwwroot\osTicket\include". By completing this renaming process, we ensure that osTicket utilizes the correct configuration settings, thus facilitating seamless operation and customization.
+
+
+
+
