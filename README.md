@@ -78,3 +78,13 @@ Let's acquire and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from
 </p>
 <p>
 Next step would be to download and install the rewrite module
+
+
+<p>
+<img src="https://i.imgur.com/itO6xHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/Q4K8vDF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Once the PHP file has been successfully downloaded, proceed to navigate to the "Files" directory. Then, right-click on the downloaded PHP file and select the "Extract All" option to initiate the extraction process.
